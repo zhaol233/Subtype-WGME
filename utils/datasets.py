@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2022/9/19 12:44
-# @Author  : zhaoliang
-# @Description: get clinical information omics data for each cancer
+
 import os
 
 import numpy as np

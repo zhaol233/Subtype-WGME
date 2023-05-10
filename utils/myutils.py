@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2022/3/29 15:50
-# @Author  : zhaoliang
-# @Description: 深度学习功能模块
+
 
 import platform
 import random

@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2022/3/30 15:38
-# @Author  : zhaoliang
-# @Description: TODO
+
 import argparse
 import time
 import numpy as np

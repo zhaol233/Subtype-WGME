@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2022/5/29 15:08
-# @Author  : zhaoliang
-# @Description: TODO
 
 import math
 import os

@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2022/3/30 15:19
-# @Author  : zhaoliang
-# @Description: TODO
+
 import math
 import numpy as np
 import torch.nn as nn
